@@ -1,14 +1,9 @@
-# Server Ecoleta API
+# Mobile
 
 
 
 :rocket: Technologies
 
-- NodeJS
-- ExpressJS
-- Typescript
-- Knex  
-- JWT
 
 :blue_book: Refs
 
